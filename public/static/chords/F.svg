@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 56.716125 66.026689"
+   version="1.1"
+   id="svg24"
+   width="56.716125"
+   height="66.026688">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Major Chord for Guitar E7 mild Dominant Seventh</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:0.5px;}
+.cls-2{fill:#fff;}
+.cls-3{font-size:18px;}
+.cls-3,.cls-4{font-family:Arial;}
+.cls-4{font-size:9px;}
+.cls-8{font-family:Arial;font-size:14px;font-weight:700;}
+.cls-9{font-family:Arial;font-size:7px;font-style:italic;}
+</style>
+  </defs>
+  <title
+     id="title6">Major Chord for Guitar E7 mild Dominant Seventh</title>
+  <path
+     d="M 5.2041789,5.2041789 H 51.511946 M 5.2041789,32.972506 H 51.511946 M 5.2041789,19.088342 H 51.511946 M 5.2041789,46.856669 H 51.511946 M 5.2041789,60.822506 H 51.511946 M 5.2041789,5.2041789 V 60.822506 M 14.433063,5.2041789 V 60.822506 M 23.74362,5.2041789 V 60.822506 M 32.972505,5.2041789 V 60.822506 M 42.20139,5.2041789 V 60.822506 M 51.511946,5.2041789 V 60.822506"
+     class="cls-1"
+     id="path8"
+     style="fill:none;stroke:#000000;stroke-width:0.40835774px;stroke-miterlimit:10" />
+  <circle
+     id="path56"
+     cx="33.122517"
+     cy="25.772421"
+     r="3.2770126"
+     style="fill:#4d4d4d;stroke-width:0.83941609" />
+  <circle
+     id="path56-3"
+     cx="23.84844"
+     cy="39.73275"
+     r="3.2770126"
+     style="fill:#4d4d4d;stroke-width:0.83941609" />
+  <circle
+     id="path56-3-6"
+     cx="14.67281"
+     cy="39.842354"
+     r="3.2770126"
+     style="fill:#4d4d4d;stroke-width:0.83941609" />
+  <circle
+     id="path56-36"
+     cx="42.245888"
+     cy="11.8904"
+     r="3.2770126"
+     style="fill:#4d4d4d;stroke-width:0.83941609" />
+  <circle
+     id="path56-36-7"
+     cx="5.2873449"
+     cy="12.100229"
+     r="3.2770126"
+     style="fill:#4d4d4d;stroke-width:0.83941609" />
+  <circle
+     id="path56-36-5"
+     cx="51.478436"
+     cy="11.750512"
+     r="3.2770126"
+     style="fill:#4d4d4d;stroke-width:0.83941609" />
+</svg>

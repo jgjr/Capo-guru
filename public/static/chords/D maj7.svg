@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="66.026688"
+   width="56.716125"
+   id="svg24"
+   version="1.1"
+   viewBox="0 0 56.716125 66.026689"
+   sodipodi:docname="D maj7.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview98"
+     showgrid="false"
+     inkscape:zoom="3.5743123"
+     inkscape:cx="28.358063"
+     inkscape:cy="33.013344"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg24" />
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Major Chord for Guitar E7 mild Dominant Seventh</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:0.5px;}
+.cls-2{fill:#fff;}
+.cls-3{font-size:18px;}
+.cls-3,.cls-4{font-family:Arial;}
+.cls-4{font-size:9px;}
+.cls-8{font-family:Arial;font-size:14px;font-weight:700;}
+.cls-9{font-family:Arial;font-size:7px;font-style:italic;}
+</style>
+  </defs>
+  <title
+     id="title6">Major Chord for Guitar E7 mild Dominant Seventh</title>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.40835774px;stroke-miterlimit:10"
+     id="path8"
+     class="cls-1"
+     d="M 5.2041789,5.2041789 H 51.511946 M 5.2041789,32.972506 H 51.511946 M 5.2041789,19.088342 H 51.511946 M 5.2041789,46.856669 H 51.511946 M 5.2041789,60.822506 H 51.511946 M 5.2041789,5.2041789 V 60.822506 M 14.433063,5.2041789 V 60.822506 M 23.74362,5.2041789 V 60.822506 M 32.972505,5.2041789 V 60.822506 M 42.20139,5.2041789 V 60.822506 M 51.511946,5.2041789 V 60.822506" />
+  <circle
+     style="stroke-width:0.83941609;fill:#4d4d4d"
+     r="3.2770126"
+     cy="26.0324"
+     cx="51.47414"
+     id="path56" />
+  <circle
+     style="stroke-width:0.83941609;fill:#4d4d4d"
+     r="3.2770126"
+     cy="26.303595"
+     cx="32.926159"
+     id="path56-3-6" />
+  <circle
+     style="stroke-width:0.83941609;fill:#4d4d4d"
+     r="3.2770126"
+     cy="26.126429"
+     cx="42.170204"
+     id="path56-3-6-7-5" />
+</svg>

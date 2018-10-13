@@ -1,0 +1,9 @@
+.main-content {
+    max-width: 960px;
+    width: 90%;
+    margin: 90px auto 100px auto;
+}
+a {
+    color: #2a3586;
+    text-decoration: 'none';
+}
